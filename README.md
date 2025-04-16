@@ -1,1 +1,1 @@
-# blogget
+# Проект Blogget
